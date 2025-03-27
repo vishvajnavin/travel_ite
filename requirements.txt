@@ -12,6 +12,7 @@ catalogue==2.0.10
 certifi==2025.1.31
 charset-normalizer==3.4.1
 click==8.1.8
+cohere
 cloudpathlib==0.21.0
 confection==0.1.5
 contourpy==1.3.0
@@ -88,6 +89,7 @@ smmap==5.0.2
 sniffio==1.3.1
 spacy==3.8.3
 spacy-legacy==3.0.12
+streamlit
 spacy-loggers==1.0.5
 srsly==2.5.1
 sympy==1.13.1
